@@ -1,1 +1,3 @@
 # seminarIT
+
+ahoj 
